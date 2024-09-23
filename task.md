@@ -4,7 +4,7 @@ Pour réaliser le projet **Zappy**, vous devez accomplir plusieurs tâches. Voic
 Le serveur est le cœur du jeu. Il gère la logique, la génération des ressources, et la gestion du temps et des événements dans le monde de **Minerth**.
 
 #### Tâches pour le serveur :
-- [ ] **Initialiser le serveur** :
+- [x] **Initialiser le serveur** :
   - Créer un serveur TCP qui écoute les connexions clients.
   - Utiliser une architecture non-bloquante (multiplexing) pour gérer plusieurs connexions simultanées.
   

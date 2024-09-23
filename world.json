@@ -1,0 +1,888 @@
+{
+    "players": [
+        {
+            "x": 8,
+            "y": 8,
+            "food": 10,
+            "level": 1,
+            "team": "Team A"
+        }
+    ],
+    "resources": [
+        {
+            "x": 0,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 0,
+            "type": "garnet"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "type": "ammolite"
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "type": "amethyst"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "amethyst"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "garnet"
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "type": "amber"
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "ammolite"
+        },
+        {
+            "x": 0,
+            "y": 6,
+            "type": "amber"
+        },
+        {
+            "x": 0,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "type": "food"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "type": "food"
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "type": "garnet"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "type": "ammolite"
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "type": "food"
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "type": "peridot"
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "type": "amber"
+        },
+        {
+            "x": 1,
+            "y": 6,
+            "type": "amber"
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "type": "amethyst"
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "type": "amber"
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "type": "garnet"
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "type": "peridot"
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "amethyst"
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "type": "ammolite"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "type": "peridot"
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "type": "food"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "type": "amethyst"
+        },
+        {
+            "x": 2,
+            "y": 5,
+            "type": "ammolite"
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "type": "food"
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "type": "amethyst"
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "type": "amethyst"
+        },
+        {
+            "x": 2,
+            "y": 7,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "type": "amethyst"
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "type": "amber"
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "type": "garnet"
+        },
+        {
+            "x": 2,
+            "y": 9,
+            "type": "jade"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "type": "amber"
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "type": "garnet"
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "type": "amber"
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "type": "peridot"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "food"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "peridot"
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "type": "jade"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "type": "jade"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "type": "garnet"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "type": "peridot"
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "type": "amber"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "type": "food"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "type": "jade"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 3,
+            "y": 6,
+            "type": "peridot"
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "type": "jade"
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "type": "peridot"
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "type": "amethyst"
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "type": "ammolite"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "type": "ammolite"
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "type": "garnet"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "type": "amber"
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "type": "food"
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 4,
+            "y": 5,
+            "type": "jade"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "type": "food"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "type": "jade"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "type": "ammolite"
+        },
+        {
+            "x": 4,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "type": "ammolite"
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "type": "peridot"
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "type": "jade"
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "type": "amber"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "type": "amethyst"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "type": "amber"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "type": "peridot"
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "type": "garnet"
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "type": "amber"
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "type": "amber"
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "type": "amethyst"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "type": "food"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "type": "amber"
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "type": "garnet"
+        },
+        {
+            "x": 5,
+            "y": 6,
+            "type": "jade"
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "type": "jade"
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "type": "jade"
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "type": "garnet"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "type": "jade"
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "type": "peridot"
+        },
+        {
+            "x": 6,
+            "y": 1,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "type": "peridot"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "type": "ammolite"
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 5,
+            "type": "jade"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "type": "food"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "type": "peridot"
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "type": "amethyst"
+        },
+        {
+            "x": 6,
+            "y": 7,
+            "type": "jade"
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "type": "amethyst"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "type": "amber"
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "type": "peridot"
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "type": "garnet"
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "type": "ammolite"
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "type": "jade"
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "type": "amethyst"
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "type": "ammolite"
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "type": "jade"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "type": "jade"
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "type": "peridot"
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "type": "garnet"
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "type": "jade"
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "type": "food"
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "type": "garnet"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "type": "amethyst"
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "type": "garnet"
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "type": "jade"
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "type": "garnet"
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "type": "amber"
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "type": "ammolite"
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "type": "jade"
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "type": "amethyst"
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "type": "jade"
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "type": "ammolite"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "type": "ammolite"
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "type": "garnet"
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "type": "ammolite"
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "type": "food"
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "type": "garnet"
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "type": "amber"
+        },
+        {
+            "x": 9,
+            "y": 2,
+            "type": "jade"
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "type": "food"
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "type": "ammolite"
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "type": "amber"
+        },
+        {
+            "x": 9,
+            "y": 4,
+            "type": "jade"
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "type": "food"
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "type": "peridot"
+        },
+        {
+            "x": 9,
+            "y": 6,
+            "type": "ammolite"
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "type": "garnet"
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "type": "food"
+        },
+        {
+            "x": 9,
+            "y": 8,
+            "type": "peridot"
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "type": "food"
+        }
+    ]
+}
